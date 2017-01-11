@@ -15,15 +15,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-    <ImageView
-        android:layout_width="160dp"
-        android:layout_height="55dp"
-        android:background="@drawable/logo"
-        android:id="@+id/imageView"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
-
-    <EditText
+        <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/fundo_caixa_texto"
@@ -73,6 +65,15 @@
         android:layout_below="@+id/button_logar"
         android:layout_centerHorizontal="true"
         android:onClick="abrirCadastroUsuario" />
+
+        <ImageView
+            android:layout_width="160dp"
+            android:layout_height="55dp"
+            android:background="@drawable/karimalogo"
+            android:id="@+id/imageView"
+            android:layout_alignParentTop="true"
+            android:layout_alignRight="@+id/textView"
+            android:layout_alignEnd="@+id/textView" />
 
     </RelativeLayout>
 

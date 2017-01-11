@@ -1,56 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
+    abi="x86"
     api-level="23"
-    density="xhdpi"
+    density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="2088025605421"
-    token="6239579190558884990"
-    verifier="R_CLASS_CHANGE" >
+    timestamp="9688525112476"
+    token="3353318252970209138"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="372" />
+        duration="732" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="78" />
+        duration="551" />
     <task
         name="verifier"
-        duration="8" />
+        duration="66" />
 
     <artifact
-        location="/Users/victorbrunobotelho/Downloads/Instagram-criando-interface-abas/Instagram/ParseStarterProject/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="/Users/victorbrunobotelho/Downloads/Instagram-criando-interface-abas/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/victorbrunobotelho/Downloads/Instagram-criando-interface-abas/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-        type="DEX" />
+        location="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="1409299171086"
+        timestamp="9688525112476"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/victorbrunobotelho/Downloads/Instagram-criando-interface-abas/Instagram/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+            location="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="2088025605421"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="/Users/victorbrunobotelho/Downloads/Instagram-criando-interface-abas/Instagram/ParseStarterProject/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="/Users/victorbrunobotelho/Downloads/Instagram-criando-interface-abas/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/victorbrunobotelho/Downloads/Instagram-criando-interface-abas/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

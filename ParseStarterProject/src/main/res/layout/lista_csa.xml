@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:background="@android:color/white"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <ImageView
+        android:id="@+id/image_lista_csa"
+        android:layout_width="180dp"
+        android:layout_height="100dp"
+        android:scaleType="centerCrop"
+        android:padding="0dp"/>
+
+    <TextView
+        android:id="@+id/text_nome_csa"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:maxLines="2"
+        android:ellipsize="marquee"
+        android:textSize="14sp"
+        android:background="@color/azulSky"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/text_local_csa"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:maxLines="2"
+        android:ellipsize="marquee"
+        android:textSize="14sp"
+        android:background="@color/azulSky"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/geo_localizacao_csa"
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:maxLines="2"
+        android:ellipsize="marquee"
+        android:textSize="14sp"
+        android:background="@color/azulSky"
+        android:textColor="@android:color/white"/>
+
+
+</LinearLayout>

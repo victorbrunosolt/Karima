@@ -4,13 +4,21 @@
     android:layout_height="match_parent"
     tools:context="com.parse.starter.fragments.HomeFragment">
 
-    <TextView
-        android:layout_width="wrap_content"
+    <GridView
+        android:id="@+id/list_csa"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="HOME"
-        android:textColor="@android:color/black"
-        android:id="@+id/textView2"
-        android:layout_gravity="center" />
+        android:layout_margin="0dp"
+        android:columnWidth="150dp"
+        android:drawSelectorOnTop="true"
+        android:gravity="center"
+        android:numColumns="auto_fit"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="0dp"
+        android:focusable="true"
+        android:clickable="true" />
+
+
+
 
 </FrameLayout>

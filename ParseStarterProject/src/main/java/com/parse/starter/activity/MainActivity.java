@@ -65,6 +65,7 @@ public class MainActivity extends AppCompatActivity {
     slidingTabLayout.setSelectedIndicatorColors( ContextCompat.getColor(this, R.color.cinzaEscuro) );
     slidingTabLayout.setViewPager( viewPager );
 
+
   }
 
   @Override
@@ -90,6 +91,7 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
   }
+
 
   private void deslogarUsuario(){
     ParseUser.logOut();

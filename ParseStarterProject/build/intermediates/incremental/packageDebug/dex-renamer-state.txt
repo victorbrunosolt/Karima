@@ -1,7 +1,7 @@
-#Mon Jan 09 17:17:08 BRST 2017
-base.0=/Users/victorbrunobotelho/Downloads/Instagram-criando-interface-abas/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_71fcca539fec62c955958106755e59a0ecd912da
+#Wed Jan 11 16:08:52 BRST 2017
+base.0=/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_083d96512cb90e38f36a504a87acadf528dca35c
 renamed.1=classes2.dex
 renamed.0=classes.dex
-file.1=/Users/victorbrunobotelho/Downloads/Instagram-criando-interface-abas/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d7b3cb44661762889ed32aff619b03229462bedc/classes.dex
-base.1=/Users/victorbrunobotelho/Downloads/Instagram-criando-interface-abas/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d7b3cb44661762889ed32aff619b03229462bedc
-file.0=/Users/victorbrunobotelho/Downloads/Instagram-criando-interface-abas/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_71fcca539fec62c955958106755e59a0ecd912da/classes.dex
+file.1=/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_58bb12d471c138fc358c6db5165ad6d76f44117d/classes.dex
+base.1=/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_58bb12d471c138fc358c6db5165ad6d76f44117d
+file.0=/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_083d96512cb90e38f36a504a87acadf528dca35c/classes.dex
