@@ -12,6 +12,7 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.GridView;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import com.parse.FindCallback;
 import com.parse.ParseException;
@@ -19,6 +20,7 @@ import com.parse.ParseObject;
 import com.parse.ParseQuery;
 import com.parse.ParseUser;
 import com.parse.starter.R;
+import com.parse.starter.activity.CsaDetalhes;
 import com.parse.starter.adapter.SearchAdapter;
 
 import java.util.ArrayList;
@@ -58,7 +60,18 @@ public class HomeFragment extends Fragment {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
 
-                Log.d("clicou", "onItemClick: "+ i);
+                ParseObject parseObject = csas.get(i);
+                // envia dados para o activity detalhes da csa
+                Intent intent = new Intent(getActivity(), CsaDetalhes.class);
+                String nome = (String) csas.get(i).get("NOME");
+                intent.putExtra("nome", nome);
+                Log.d("myTag", nome);
+
+                Toast.makeText(getContext(),nome,Toast.LENGTH_SHORT).show();
+
+
+
+                startActivity(intent);
 
 
 

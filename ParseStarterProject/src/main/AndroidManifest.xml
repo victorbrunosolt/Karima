@@ -37,6 +37,15 @@
         </activity>
         <activity android:name=".activity.MainActivity" />
         <activity android:name=".activity.CadastroActivity" />
+        <activity
+            android:name=".activity.CsaDetalhes"
+            android:label="@string/title_activity_csa_detalhes"
+            android:parentActivityName=".activity.MainActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.parse.starter.activity.MainActivity" />
+        </activity>
     </application>
 
 </manifest>

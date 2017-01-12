@@ -259,6 +259,7 @@
     <string name="parse_client_key">YOUR_CLIENT_KEY</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="title_activity_csa">CsaActivity</string>
+    <string name="title_activity_csa_detalhes">CsaDetalhes</string>
     <string name="title_activity_detalhes__csa">Detalhes_Csa</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:9:1-42:12
+ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:9:1-51:12
 	package
 		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
 		INJECTED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
@@ -26,7 +26,7 @@ ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarte
 	android:name
 		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
 application
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:16:5-40:19
+ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:16:5-49:19
 MERGED from [com.android.support:design:22.2.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/design/22.2.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.0] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/AndroidManifest.xml:22:5-20
@@ -76,6 +76,22 @@ activity#com.parse.starter.activity.CadastroActivity
 ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:39:9-63
 	android:name
 		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:39:19-60
+activity#com.parse.starter.activity.CsaDetalhes
+ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:40:9-48:20
+	android:label
+		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:42:13-64
+	android:parentActivityName
+		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:43:13-64
+	android:theme
+		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:41:13-49
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:45:13-47:75
+	android:value
+		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:47:17-72
+	android:name
+		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:46:17-63
 uses-sdk
 INJECTED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:22.2.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/design/22.2.1/AndroidManifest.xml:20:5-43
