@@ -50,7 +50,6 @@ public class MainActivity extends AppCompatActivity {
 
     //Configura toolbar
     toolbarPrincipal = (Toolbar) findViewById(R.id.toolbar_principal);
-    toolbarPrincipal.setLogo( R.drawable.karimalogo );
     setSupportActionBar( toolbarPrincipal );
 
     //Configura abas

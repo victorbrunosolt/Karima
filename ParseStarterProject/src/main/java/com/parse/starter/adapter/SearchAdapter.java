@@ -1,5 +1,6 @@
 package com.parse.starter.adapter;
 
+import android.app.ProgressDialog;
 import android.content.Context;
 import android.location.Geocoder;
 import android.view.LayoutInflater;
@@ -76,6 +77,7 @@ import java.util.List;
             String nomeCsa = (String) parseObject.get("NOME");
             String localCsa = (String) parseObject.get("ENDERECO");
             //Geocoder distanciaCsa = (Geocoder) parseObject.get("LOCALIZACAO");
+
 
             //setando para o textView da  classe holder para mostrar na tela
             holder.nomeCsa.setText(nomeCsa);

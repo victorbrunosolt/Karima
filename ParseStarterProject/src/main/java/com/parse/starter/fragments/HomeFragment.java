@@ -3,6 +3,7 @@ package com.parse.starter.fragments;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.Parcelable;
 import android.support.v4.app.Fragment;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -11,6 +12,7 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.GridView;
+import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.Toast;
 
@@ -63,12 +65,8 @@ public class HomeFragment extends Fragment {
                 ParseObject parseObject = csas.get(i);
                 // envia dados para o activity detalhes da csa
                 Intent intent = new Intent(getActivity(), CsaDetalhes.class);
-                String nome = (String) csas.get(i).get("NOME");
-                intent.putExtra("nome", nome);
-                Log.d("myTag", nome);
-
-                Toast.makeText(getContext(),nome,Toast.LENGTH_SHORT).show();
-
+                String objectId = parseObject.getObjectId();
+                intent.putExtra("objectId", objectId);
 
 
                 startActivity(intent);
@@ -86,7 +84,7 @@ public class HomeFragment extends Fragment {
     private void getPostagens() {
 
         /*
-         Recupera imagens das postagens
+         Recupera csas
         */
         query = ParseQuery.getQuery("CSA");
         query.orderByDescending("createdAt");

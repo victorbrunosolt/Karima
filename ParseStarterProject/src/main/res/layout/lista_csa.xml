@@ -23,7 +23,7 @@
         android:maxLines="2"
         android:ellipsize="marquee"
         android:textSize="14sp"
-        android:background="@color/azulSky"
+        android:background="@color/vermelho"
         android:textColor="@android:color/white"/>
 
     <TextView
@@ -35,7 +35,7 @@
         android:maxLines="2"
         android:ellipsize="marquee"
         android:textSize="14sp"
-        android:background="@color/azulSky"
+        android:background="@color/vermelho"
         android:textColor="@android:color/white"/>
 
     <TextView
@@ -47,7 +47,7 @@
         android:maxLines="2"
         android:ellipsize="marquee"
         android:textSize="14sp"
-        android:background="@color/azulSky"
+        android:background="@color/vermelho"
         android:textColor="@android:color/white"/>
 
 

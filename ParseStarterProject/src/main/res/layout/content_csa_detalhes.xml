@@ -1,26 +1,150 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/content_csa_detalhes"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.parse.starter.activity.CsaDetalhes">
+    tools:context="com.parse.starter.activity.CsaDetalhes"
+    android:orientation="vertical">>
+
+
 
     <include layout="@layout/toolbar" android:id="@+id/toolbarDetalhesCsa"></include>
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:id="@+id/imagem_fundo_Csa"
+        android:layout_gravity="center"
+        />
 
-    <Button
-        android:text="Button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerVertical="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginLeft="137dp"
-        android:layout_marginStart="137dp"
-        android:id="@+id/button" />
+    <TabHost
+        android:id="@+id/tabHost"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@color/vermelho">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"></TabWidget>
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:id="@+id/tab1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#ffff"
+                    android:orientation="vertical"
+                    android:weightSum="1">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/nome_csa"
+                        android:textColor="@android:color/black"
+                        android:paddingTop="30dp"
+                        />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/descricao_csa"
+                        android:textColor="@android:color/black"
+                        android:paddingTop="10dp"
+
+                       />
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/endereco_csa"
+                        android:textColor="@android:color/black"
+                        android:paddingTop="10dp"
+
+                         />
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/preco_csa"
+                        android:textColor="@android:color/black"
+                        android:paddingTop="10dp"
+
+                        />
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/capacidade_csa"
+                        android:textColor="@android:color/black"
+                        android:paddingTop="10dp"
+                      />
 
 
-</RelativeLayout>
+
+                    <Button
+                        android:paddingTop="10dp"
+                        android:text="Assinar "
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/button"
+                        android:layout_gravity="center"
+                      />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/tab2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#da8200"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="MAPA" />
+
+                    <com.google.android.gms.maps.MapView android:id="@+id/mapview"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/tab3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#5b89ff"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="CSA muito foda recomendo!!"
+                        android:layout_marginTop="50dp"/>
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+
+
+</LinearLayout>

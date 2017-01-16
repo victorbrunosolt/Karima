@@ -1,4 +1,4 @@
-#Wed Jan 11 22:48:27 BRST 2017
+#Mon Jan 16 17:32:31 BRST 2017
 base.0=/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_083d96512cb90e38f36a504a87acadf528dca35c
 renamed.1=classes2.dex
 renamed.0=classes.dex
