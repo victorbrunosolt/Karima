@@ -5,59 +5,33 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="306534587879423"
+    timestamp="17162392639726"
     token="3353318252970209138"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="989" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="489" />
     <task
         name="verifier"
-        duration="0" />
+        duration="80" />
 
     <artifact
-        location="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="305366159185501"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="17162392639726"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="305574693701702"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="306534587879423"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>

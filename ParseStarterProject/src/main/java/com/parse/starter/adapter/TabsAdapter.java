@@ -12,12 +12,14 @@ import android.text.style.ImageSpan;
 
 import com.parse.starter.R;
 import com.parse.starter.fragments.HomeFragment;
+import com.parse.starter.fragments.NotificationFragment;
+import com.parse.starter.fragments.TimeLineFragment;
 import com.parse.starter.fragments.UsuariosFragment;
 
 public class TabsAdapter extends FragmentStatePagerAdapter {
 
     private Context context;
-    private int[] icones = new int[]{R.drawable.ic_search, R.drawable.ic_action_user};
+    private int[] icones = new int[]{R.drawable.ic_home,R.drawable.ic_search,R.drawable.ic_notifications_active ,R.drawable.ic_action_user};
     private int tamanhoIcone;
 
     public TabsAdapter(FragmentManager fm, Context c) {
@@ -33,12 +35,21 @@ public class TabsAdapter extends FragmentStatePagerAdapter {
         Fragment fragment = null;
         switch (position){
 
-            case 0 :
+            case 0:
+                fragment = new TimeLineFragment();
+                break;
+            case 1 :
                 fragment = new HomeFragment();
                 break;
-            case 1:
+
+            case 2:
+                fragment = new NotificationFragment();
+                break;
+            case 3:
                 fragment = new UsuariosFragment();
                 break;
+
+
 
         }
         return  fragment;

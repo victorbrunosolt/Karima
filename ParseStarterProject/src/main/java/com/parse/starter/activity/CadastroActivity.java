@@ -43,7 +43,7 @@ public class CadastroActivity extends AppCompatActivity {
         facaLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                abrirLoginUsuario();
+
             }
         });
 
@@ -63,7 +63,6 @@ public class CadastroActivity extends AppCompatActivity {
             public void done(ParseException e) {
                 if( e==null ){//sucesso ao salvar
                     Toast.makeText(CadastroActivity.this, "Cadastro feito com sucesso!", Toast.LENGTH_LONG).show();
-                    abrirLoginUsuario();
                 }else{//erro ao salvar
                     ParseErros parseErros = new ParseErros();
                     String erro = parseErros.getErro( e.getCode() );
@@ -74,10 +73,5 @@ public class CadastroActivity extends AppCompatActivity {
 
     }
 
-    private void abrirLoginUsuario(){
-        Intent intent = new Intent(CadastroActivity.this, LoginActivity.class);
-        startActivity(intent);
-        finish();
-    }
 
 }

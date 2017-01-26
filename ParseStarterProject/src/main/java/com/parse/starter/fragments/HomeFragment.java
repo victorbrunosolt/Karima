@@ -3,28 +3,22 @@ package com.parse.starter.fragments;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.os.Parcelable;
+
 import android.support.v4.app.Fragment;
-import android.util.Log;
+
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.GridView;
-import android.widget.ImageView;
-import android.widget.ListView;
-import android.widget.Toast;
-
 import com.parse.FindCallback;
 import com.parse.ParseException;
 import com.parse.ParseObject;
 import com.parse.ParseQuery;
-import com.parse.ParseUser;
 import com.parse.starter.R;
 import com.parse.starter.activity.CsaDetalhes;
 import com.parse.starter.adapter.SearchAdapter;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -48,7 +42,7 @@ public class HomeFragment extends Fragment {
         View view = inflater.inflate(R.layout.fragment_home, container, false);
 
         /*
-         Montar Listview e adapter
+         Montar GridView e adapter
         */
         csas = new ArrayList<>();
         gridView = (GridView) view.findViewById(R.id.list_csa);
