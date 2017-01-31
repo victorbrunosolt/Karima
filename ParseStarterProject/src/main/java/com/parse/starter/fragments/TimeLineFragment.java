@@ -1,11 +1,15 @@
 package com.parse.starter.fragments;
 
 
+import android.content.Intent;
 import android.os.Bundle;
+
 import android.support.v4.app.Fragment;
+
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.GridView;
 import android.widget.ListView;
@@ -15,6 +19,7 @@ import com.parse.ParseException;
 import com.parse.ParseObject;
 import com.parse.ParseQuery;
 import com.parse.starter.R;
+import com.parse.starter.activity.CsaDetalhes;
 import com.parse.starter.adapter.SearchAdapter;
 import com.parse.starter.adapter.TimeLineAdapter;
 
@@ -25,36 +30,54 @@ import java.util.List;
  * A simple {@link Fragment} subclass.
  */
 public class TimeLineFragment extends Fragment {
-
-    private ArrayList<ParseObject> posts;
+    private ListView listView;
+    private ArrayList<ParseObject> csas;
     private ArrayAdapter<ParseObject> adapter;
     private ParseQuery query;
-    private ListView listView;
-
 
     public TimeLineFragment() {
         // Required empty public constructor
     }
 
 
-    @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        //define o design do fragment
         View view = inflater.inflate(R.layout.fragment_time_line, container, false);
 
-        // instancia o array e o adapter e seta para a list view
-
-        posts = new ArrayList<>();
+        /*
+         Montar GridView e adapter
+        */
+        csas = new ArrayList<>();
         listView = (ListView) view.findViewById(R.id.listView_Timeline);
-        adapter = new TimeLineAdapter(getActivity(), posts);
+        adapter = new TimeLineAdapter(getActivity(), csas);
         listView.setAdapter(adapter);
-        // recupera as postagens
+
+        //recupera postagens
         getPostagens();
+
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+
+                ParseObject parseObject = csas.get(i);
+                // envia dados para o activity detalhes da csa
+                Intent intent = new Intent(getActivity(), CsaDetalhes.class);
+                String objectId = parseObject.getObjectId();
+                intent.putExtra("objectId", objectId);
+
+
+                startActivity(intent);
+
+
+
+            }
+        });
 
         return view;
     }
+
+
 
     private void getPostagens() {
 
@@ -71,9 +94,9 @@ public class TimeLineFragment extends Fragment {
                 if (e == null) {//sucesso
 
                     if (objects.size() > 0) {
-                        posts.clear();
+                        csas.clear();
                         for (ParseObject parseObject : objects) {
-                            posts.add(parseObject);
+                            csas.add(parseObject);
                         }
                         adapter.notifyDataSetChanged();
                     }
@@ -86,5 +109,4 @@ public class TimeLineFragment extends Fragment {
         });
 
     }
-
 }

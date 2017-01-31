@@ -2,12 +2,23 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.parse.starter.fragments.TimeLineFragment">
-
+    tools:context="com.parse.starter.fragments.HomeFragment">
 
     <ListView
-        android:layout_width="match_parent"
-        android:layout_height="200dp"
         android:id="@+id/listView_Timeline"
-        android:layout_gravity="center_horizontal|top"/>
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="0dp"
+        android:columnWidth="150dp"
+        android:drawSelectorOnTop="true"
+        android:gravity="center"
+        android:numColumns="auto_fit"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="0dp"
+        android:focusable="true"
+        android:clickable="true" />
+
+
+
+
 </FrameLayout>

@@ -50,7 +50,7 @@ public class HomeFragment extends Fragment {
         gridView.setAdapter(adapter);
 
         //recupera postagens
-        getPostagens();
+          getPostagens();
 
         gridView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
