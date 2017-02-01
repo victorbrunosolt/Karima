@@ -27,4 +27,9 @@
     <string name="title_activity_csa">CsaActivity</string>
     <string name="title_activity_detalhes__csa">Detalhes_Csa</string>
     <string name="title_activity_csa_detalhes">CsaDetalhes</string>
+
+    <!-- mapas -->
+
+    <string name="google_maps_key">AIzaSyDRXmQaZ2OsxK_QtpkYde2kE0RufhGHM4I</string>
+
 </resources>

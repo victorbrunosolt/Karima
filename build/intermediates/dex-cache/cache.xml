@@ -97,7 +97,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="3414a946c10273313107e480be2677d057f09080">
+        sha1="f860e581af166bdf045ed7334611d0b35d9f2a7f">
         <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_58bb12d471c138fc358c6db5165ad6d76f44117d/classes.dex" />
     </item>
     <item
@@ -142,7 +142,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="1a79ff4767f99c2f2e180cab0b17229944c55cb6">
+        sha1="e16a810c8ed06e0760349875ab28b5949e73cd69">
         <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_083d96512cb90e38f36a504a87acadf528dca35c/classes.dex" />
     </item>
 

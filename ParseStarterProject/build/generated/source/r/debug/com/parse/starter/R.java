@@ -2765,7 +2765,7 @@ containing a value of this type.
         public static final int listView_Timeline=0x7f0c0095;
         public static final int list_csa=0x7f0c0094;
         public static final int list_item=0x7f0c0053;
-        public static final int mapview=0x7f0c0092;
+        public static final int map=0x7f0c0092;
         public static final int media_actions=0x7f0c00a0;
         public static final int middle=0x7f0c0031;
         public static final int mini=0x7f0c002f;
@@ -2973,13 +2973,14 @@ containing a value of this type.
         public static final int common_signin_button_text_long=0x7f06001d;
         public static final int crie_conta=0x7f060029;
         public static final int fazer_login=0x7f06002a;
-        public static final int hello_blank_fragment=0x7f06002b;
-        public static final int parse_app_id=0x7f06002c;
-        public static final int parse_client_key=0x7f06002d;
-        public static final int status_bar_notification_info_overflow=0x7f06002e;
-        public static final int title_activity_csa=0x7f06002f;
-        public static final int title_activity_csa_detalhes=0x7f060030;
-        public static final int title_activity_detalhes__csa=0x7f060031;
+        public static final int google_maps_key=0x7f06002b;
+        public static final int hello_blank_fragment=0x7f06002c;
+        public static final int parse_app_id=0x7f06002d;
+        public static final int parse_client_key=0x7f06002e;
+        public static final int status_bar_notification_info_overflow=0x7f06002f;
+        public static final int title_activity_csa=0x7f060030;
+        public static final int title_activity_csa_detalhes=0x7f060031;
+        public static final int title_activity_detalhes__csa=0x7f060032;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f080074;

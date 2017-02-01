@@ -118,14 +118,11 @@
                     android:background="#da8200"
                     android:orientation="vertical">
 
-                    <TextView
+                    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:id="@+id/map"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:text="MAPA" />
-
-                    <com.google.android.gms.maps.MapView android:id="@+id/mapview"
-                        android:layout_width="fill_parent"
-                        android:layout_height="fill_parent" />
+                        class="com.google.android.gms.maps.SupportMapFragment" />
 
                 </LinearLayout>
 
