@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="com.parse.starter.activity.CsaDetalhes">
+    tools:context="com.parse.starter.activity.CsaDetalhes"
+    android:orientation="vertical">
 
     <include layout="@layout/content_csa_detalhes" />
 

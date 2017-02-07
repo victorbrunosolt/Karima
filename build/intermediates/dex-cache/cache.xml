@@ -21,6 +21,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/victorbrunobotelho/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0-beta2_d5603270eb25f51d12c0f6e4ad52610a0f609594/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/victorbrunobotelho/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0-beta2_2ca074784b24ce4eedf6532ea022f0d522a03fd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -97,7 +115,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="f860e581af166bdf045ed7334611d0b35d9f2a7f">
+        sha1="e99347aef8ecb95bc990c8068444e6b8583ffaa6">
         <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_58bb12d471c138fc358c6db5165ad6d76f44117d/classes.dex" />
     </item>
     <item
@@ -108,6 +126,33 @@
         revision="23.0.1"
         sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
         <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_d9b61ec57eda0df0bb6ea23c4b8e9044be99d223/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/victorbrunobotelho/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_e81f2efbd7f0001224708b7911b48fb6b6911171/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/victorbrunobotelho/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_a0ce60a62cc3360372924619b56bf2555be2b1fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/victorbrunobotelho/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_cbbd4016fbda070e9280d859aca66d52c9010389/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -142,7 +187,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="e16a810c8ed06e0760349875ab28b5949e73cd69">
+        sha1="05736d0cad256ebf8cad5c791441ec54c0de34be">
         <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_083d96512cb90e38f36a504a87acadf528dca35c/classes.dex" />
     </item>
 

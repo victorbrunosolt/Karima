@@ -5,47 +5,47 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="7157927451741"
+    timestamp="51684232997623"
     token="3353318252970209138"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="489" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="713" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="24" />
     <task
         name="verifier"
-        duration="0" />
+        duration="1" />
 
     <artifact
-        location="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="5594013259025"
+        timestamp="49081641239575"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="6158839143949"
+        timestamp="51586978045346"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
             type="DEX" />
     </build>
     <build
-        timestamp="7157927451741"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="51684232997623"
+        verifier="COMPATIBLE" >
         <artifact
-            location="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-            type="RESOURCES" />
+            location="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>
