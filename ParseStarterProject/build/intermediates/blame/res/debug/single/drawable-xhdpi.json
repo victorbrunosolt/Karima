@@ -20,8 +20,16 @@
         "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_search.png",
+        "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/res/drawable-xhdpi/ic_action_search.png"
+    },
+    {
         "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png",
         "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_home.png",
+        "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/res/drawable-xhdpi/ic_action_home.png"
     },
     {
         "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png",

@@ -6,5 +6,7 @@
     <color name="azulSky">#00BFFF</color>
     <color name="verdeClaro">#00FF7F</color>
     <color name="vermelho">#FF0000</color>
+    <color name="preto">#000000</color>
+
 
 </resources>

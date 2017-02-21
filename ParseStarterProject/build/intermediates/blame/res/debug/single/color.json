@@ -8,10 +8,6 @@
         "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color/abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
         "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
         "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color/switch_thumb_material_light.xml"
     },
@@ -22,10 +18,6 @@
     {
         "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
         "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color/abc_search_url_text.xml"
-    },
-    {
-        "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/color/abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",

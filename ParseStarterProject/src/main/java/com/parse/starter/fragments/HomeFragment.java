@@ -1,9 +1,15 @@
 package com.parse.starter.fragments;
 
 
+import android.Manifest;
+import android.content.Context;
 import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.location.Location;
+import android.location.LocationManager;
 import android.os.Bundle;
 
+import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.Fragment;
 
 import android.view.LayoutInflater;
@@ -12,6 +18,8 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.GridView;
+import android.widget.Toast;
+
 import com.parse.FindCallback;
 import com.parse.ParseException;
 import com.parse.ParseObject;
@@ -30,6 +38,8 @@ public class HomeFragment extends Fragment {
     private ArrayList<ParseObject> csas;
     private ArrayAdapter<ParseObject> adapter;
     private ParseQuery query;
+    private LocationManager locationManager;
+    private Location location;
 
     public HomeFragment() {
         // Required empty public constructor
@@ -38,6 +48,8 @@ public class HomeFragment extends Fragment {
 
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
+
+
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_home, container, false);
 

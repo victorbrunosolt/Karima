@@ -109,9 +109,6 @@ public class UsuariosFragment extends Fragment {
 
                 Intent intent = new Intent(getActivity(), CadastroActivity.class);
                 startActivity(intent);
-              view = inflater.inflate(R.layout.activity_cadastro, container, false);
-                Toast.makeText(getActivity(), "vai pra tela de cadastro rlx, "
-                        , Toast.LENGTH_LONG).show();
 
             }
         });
@@ -126,14 +123,6 @@ public class UsuariosFragment extends Fragment {
 
         view = inflater.inflate(R.layout.usuario_activity, container, false);
         fotoLogin = (ImageView) view.findViewById(R.id.foto_perfil);
-        fotoLogin.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Toast.makeText(getActivity(), "Erro ao fazer login, "
-                        , Toast.LENGTH_LONG).show();
-            }
-        });
-
 
     }
 

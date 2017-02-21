@@ -106,7 +106,7 @@
                         android:text="Assinar "
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:id="@+id/button"
+                        android:id="@+id/button_assinar"
                         android:layout_gravity="center"
                       />
 
@@ -136,7 +136,22 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:text="CSA muito foda recomendo!!"
+                        android:text="CSA muito boa recomendo!!"
+                        android:layout_marginTop="50dp"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/tab4"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#ffffff"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="fotos!!"
+                        android:textColor="@android:color/black"
                         android:layout_marginTop="50dp"/>
                 </LinearLayout>
             </FrameLayout>

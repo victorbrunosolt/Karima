@@ -27,6 +27,7 @@
     <string name="title_activity_csa">CsaActivity</string>
     <string name="title_activity_detalhes__csa">Detalhes_Csa</string>
     <string name="title_activity_csa_detalhes">CsaDetalhes</string>
+    <string name="transition_string">transitionString</string>
 
     <!-- mapas -->
 

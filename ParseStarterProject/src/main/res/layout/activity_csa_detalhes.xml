@@ -9,6 +9,9 @@
     android:orientation="vertical">
 
     <include layout="@layout/content_csa_detalhes" />
+    <include
+        android:id="@+id/toolbar_detalhes"
+        layout="@layout/toolbar" />
 
 
 

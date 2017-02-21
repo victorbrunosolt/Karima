@@ -6,7 +6,12 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="350dp"
+        android:layout_height="wrap_content"
         android:id="@+id/foto_perfil"
-        android:background="@drawable/foto_perfil"/>
+        android:background="@drawable/foto_perfil"
+        android:scaleType="fitXY"/>
+
+
+
+
 </LinearLayout>

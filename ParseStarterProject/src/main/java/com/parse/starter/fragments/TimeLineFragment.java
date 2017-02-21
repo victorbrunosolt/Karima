@@ -56,23 +56,6 @@ public class TimeLineFragment extends Fragment {
         //recupera postagens
         getPostagens();
 
-        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-
-                ParseObject parseObject = csas.get(i);
-                // envia dados para o activity detalhes da csa
-                Intent intent = new Intent(getActivity(), CsaDetalhes.class);
-                String objectId = parseObject.getObjectId();
-                intent.putExtra("objectId", objectId);
-
-
-                startActivity(intent);
-
-
-
-            }
-        });
 
         return view;
     }

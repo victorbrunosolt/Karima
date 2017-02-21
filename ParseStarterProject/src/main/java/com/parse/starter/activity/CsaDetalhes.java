@@ -12,9 +12,13 @@ import android.location.LocationManager;
 import android.os.AsyncTask;
 import android.os.Bundle;
 
+import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 
+import android.support.v7.widget.Toolbar;
+import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TabHost;
@@ -38,6 +42,7 @@ import com.squareup.picasso.Picasso;
 
 public class CsaDetalhes extends AppCompatActivity implements OnMapReadyCallback, LocationListener, DialogInterface{
 
+    private Toolbar toolbarPrincipal;
     private String objectId;
     private TextView textViewNome;
     private TextView textViewDescricao;
@@ -45,11 +50,13 @@ public class CsaDetalhes extends AppCompatActivity implements OnMapReadyCallback
     private TextView textViewPreco;
     private TextView textViewCapacidade;
     private ImageView imagemViewFotoCsa;
+    private Button buttonAssinar;
     private ParseObject csa;
     private LocationManager locationManager;
     private double latitudeCsa;
     private double longitudeCsa;
     private  GoogleMap map ;
+    private CollapsingToolbarLayout collapsingToolbar;
 
 
 
@@ -60,7 +67,11 @@ public class CsaDetalhes extends AppCompatActivity implements OnMapReadyCallback
 
         super.onCreate(savedInstanceState);
 
+
+
         setContentView(R.layout.activity_csa_detalhes);
+        toolbarPrincipal = (Toolbar) findViewById(R.id.toolbar_detalhes);
+        setSupportActionBar( toolbarPrincipal );
         Intent intent = getIntent();
         objectId = intent.getStringExtra("objectId");
 
@@ -69,6 +80,16 @@ public class CsaDetalhes extends AppCompatActivity implements OnMapReadyCallback
         criatabs();
         getComponentesTela();
         getCsa();
+
+        //botão assinar
+        buttonAssinar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(CsaDetalhes.this, AssinarActivity.class);
+                startActivity(intent);
+            }
+        });
+
         // mapa
 
         SupportMapFragment mapFragment =
@@ -80,17 +101,6 @@ public class CsaDetalhes extends AppCompatActivity implements OnMapReadyCallback
 
     @Override
     protected void onResume() {
-
-        locationManager = (LocationManager) getApplicationContext().getSystemService(Context.LOCATION_SERVICE);
-        locationManager.requestLocationUpdates(locationManager.GPS_PROVIDER,0,0,this);
-
-        if (locationManager.isProviderEnabled(LocationManager.GPS_PROVIDER)){
-            Toast.makeText(getApplicationContext(), "GPS ATIVADO: ", Toast.LENGTH_SHORT).show();
-        }else{
-            showGPSDisabledAlertToUser();
-        }
-
-
 
         super.onResume();
     }
@@ -151,6 +161,7 @@ public class CsaDetalhes extends AppCompatActivity implements OnMapReadyCallback
         textViewEndereco = (TextView) findViewById(R.id.endereco_csa);
         textViewPreco = (TextView) findViewById(R.id.preco_csa);
         textViewCapacidade = (TextView) findViewById(R.id.capacidade_csa);
+        buttonAssinar = (Button) findViewById(R.id.button_assinar);
 
 
     }
@@ -168,20 +179,27 @@ public class CsaDetalhes extends AppCompatActivity implements OnMapReadyCallback
         //Tab 1
         TabHost.TabSpec spec = host.newTabSpec("Detalhes");
         spec.setContent(R.id.tab1);
-        spec.setIndicator("Detalhes CSA");
+        spec.setIndicator("Detalhes");
         host.addTab(spec);
 
         //Tab 2
         spec = host.newTabSpec("Local");
         spec.setContent(R.id.tab2);
-        spec.setIndicator("Local CSA");
+        spec.setIndicator("Local");
         host.addTab(spec);
 
         //Tab 3
         spec = host.newTabSpec("Avalições");
         spec.setContent(R.id.tab3);
-        spec.setIndicator("Avalições CSA");
+        spec.setIndicator("Avalições");
         host.addTab(spec);
+
+        //Tab 4
+        spec = host.newTabSpec("Fotos");
+        spec.setContent(R.id.tab4);
+        spec.setIndicator("Fotos");
+        host.addTab(spec);
+
 
 
 
@@ -210,27 +228,7 @@ public class CsaDetalhes extends AppCompatActivity implements OnMapReadyCallback
 
     }
 
-    private void showGPSDisabledAlertToUser(){
-        AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(this);
-        alertDialogBuilder.setMessage("GPS está desativado deseja ativar?")
-                .setCancelable(false)
-                .setPositiveButton("ativar GPS",
-                        new DialogInterface.OnClickListener(){
-                            public void onClick(DialogInterface dialog, int id){
-                                Intent callGPSSettingIntent = new Intent(
-                                        android.provider.Settings.ACTION_LOCATION_SOURCE_SETTINGS);
-                                startActivity(callGPSSettingIntent);
-                            }
-                        });
-        alertDialogBuilder.setNegativeButton("Cancelar",
-                new DialogInterface.OnClickListener(){
-                    public void onClick(DialogInterface dialog, int id){
-                        dialog.cancel();
-                    }
-                });
-        AlertDialog alert = alertDialogBuilder.create();
-        alert.show();
-    }
+
 
     @Override
     public void onLocationChanged(Location location) {
@@ -263,56 +261,6 @@ public class CsaDetalhes extends AppCompatActivity implements OnMapReadyCallback
 
     }
 
-
-    //--------------------------Classe AsyncTask----------------------------------
-
-    private class AsyncTaskRunner extends AsyncTask<String, String, String> {
-
-        private String resp;
-        ProgressDialog progressDialog;
-
-        @Override
-        protected String doInBackground(String... params) {
-            publishProgress("Sleeping..."); // Calls onProgressUpdate()
-            try {
-
-
-                int time = Integer.parseInt(params[0])*1000;
-
-                Thread.sleep(5);
-                resp = "Slept for " + params[0] + " seconds";
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-                resp = e.getMessage();
-            } catch (Exception e) {
-                e.printStackTrace();
-                resp = e.getMessage();
-            }
-            return resp;
-        }
-
-
-        @Override
-        protected void onPostExecute(String result) {
-            // execution of result of Long time consuming operation
-            progressDialog.dismiss();
-        }
-
-
-        @Override
-        protected void onPreExecute() {
-            progressDialog = ProgressDialog.show(CsaDetalhes.this,
-                    "ProgressDialog",
-                    "Wait for "+10+ " seconds");
-        }
-
-
-        @Override
-        protected void onProgressUpdate(String... text) {
-            // Things to be done while execution of long running operation is in
-            // progress. For example updating ProgessDialog
-        }
-    }
 }
 
 

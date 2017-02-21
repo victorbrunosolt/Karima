@@ -164,6 +164,10 @@
         "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-hdpi/abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_home.png",
+        "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/res/drawable-hdpi/ic_action_home.png"
+    },
+    {
         "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_pressed_holo_dark.9.png",
         "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
     },
@@ -174,5 +178,9 @@
     {
         "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png",
         "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_search.png",
+        "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/res/drawable-hdpi/ic_action_search.png"
     }
 ]

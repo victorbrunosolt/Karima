@@ -12,29 +12,15 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.content.ContextCompat;
 import android.support.v4.view.ViewPager;
-import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
-
-import com.parse.FindCallback;
-import com.parse.GetCallback;
-import com.parse.LogInCallback;
-import com.parse.ParseAnalytics;
-import com.parse.ParseException;
-import com.parse.ParseObject;
-import com.parse.ParseQuery;
 import com.parse.ParseUser;
-import com.parse.SaveCallback;
-import com.parse.SignUpCallback;
 import com.parse.starter.R;
 import com.parse.starter.adapter.TabsAdapter;
 import com.parse.starter.util.SlidingTabLayout;
-
-import java.util.List;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -61,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
     viewPager.setAdapter( tabsAdapter );
     slidingTabLayout.setCustomTabView(R.layout.tab_view, R.id.text_item_tab);
     slidingTabLayout.setDistributeEvenly(true);
-    slidingTabLayout.setSelectedIndicatorColors( ContextCompat.getColor(this, R.color.cinzaEscuro) );
+    slidingTabLayout.setSelectedIndicatorColors( ContextCompat.getColor(this, R.color.colorPrimary) );
     slidingTabLayout.setViewPager( viewPager );
 
 

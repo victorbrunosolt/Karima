@@ -44,12 +44,24 @@
         "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/res/layout/activity_csa_detalhes.xml"
     },
     {
+        "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/layout/lista_csa_card.xml",
+        "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/res/layout/lista_csa_card.xml"
+    },
+    {
         "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
+        "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/layout/activity_assinar.xml",
+        "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/res/layout/activity_assinar.xml"
+    },
+    {
         "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
         "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/layout/time_line_card.xml",
+        "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/res/layout/time_line_card.xml"
     },
     {
         "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
@@ -174,14 +186,6 @@
     {
         "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
         "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/layout/time_line.xml",
-        "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/res/layout/time_line.xml"
-    },
-    {
-        "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/layout/fragment_usuarios.xml",
-        "source": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/res/layout/fragment_usuarios.xml"
     },
     {
         "merged": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",

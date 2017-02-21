@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
+import android.widget.TextView;
 
 import com.parse.ParseObject;
 import com.parse.starter.R;
@@ -45,7 +46,7 @@ public class TimeLineAdapter extends ArrayAdapter<ParseObject> {
             LayoutInflater inflater = (LayoutInflater) context.getSystemService(context.LAYOUT_INFLATER_SERVICE);
 
             //monta a view a partir do xml
-            view = inflater.inflate(R.layout.time_line, parent, false);
+            view = inflater.inflate(R.layout.time_line_card, parent, false);
             // istanciando a classe holder e ligando as variaveis ao xml
             holder = new ViewHolder();
             holder.imageView = (ImageView) view.findViewById(R.id.imagem_view_time_line);
@@ -63,10 +64,15 @@ public class TimeLineAdapter extends ArrayAdapter<ParseObject> {
 
             //recupera componentes da tela
             ImageView imagemPostagem = (ImageView) view.findViewById(R.id.imagem_view_time_line);
+            TextView tvModel = (TextView) view.findViewById(R.id.tv_model);
+            TextView tvBrand = (TextView) view.findViewById(R.id.tv_brand);
 
             //recuperando CSA apartirda posição
             ParseObject parseObject = posts.get(position);
 
+
+            tvModel.setText("CSA Brasil");
+            tvBrand.setText("Melhores produtos!!" );
             //passando foto para o picasso mostrar na tela recuperado do parse
             Picasso.with(context)
                     .load(parseObject.getParseFile("IMAGEM").getUrl())
