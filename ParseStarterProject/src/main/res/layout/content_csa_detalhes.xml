@@ -104,11 +104,20 @@
                     <Button
                         android:paddingTop="10dp"
                         android:text="Assinar "
+                        android:onClick="buy"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:id="@+id/button_assinar"
+                        android:id="@+id/button_buy"
                         android:layout_gravity="center"
                       />
+
+                    <WebView
+                        android:id="@+id/web_view"
+                        android:layout_width="0.1dp"
+                        android:layout_height="0.1dp"
+                        android:layout_below="@+id/button_buy">
+
+                    </WebView>
 
                 </LinearLayout>
 

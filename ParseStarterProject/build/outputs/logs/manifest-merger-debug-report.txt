@@ -1,173 +1,190 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:9:1-61:12
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:9:1-61:12
 	package
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
-		INJECTED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
-		INJECTED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
-		INJECTED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
 	android:versionCode
-		INJECTED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
-		INJECTED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/AndroidManifest.xml:20:5-66
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/665cac68ca98a9bb862dc5cfda2b24d50f2217a9/output/AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/AndroidManifest.xml:19:5-78
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/665cac68ca98a9bb862dc5cfda2b24d50f2217a9/output/AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:14:5-80
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:14:5-80
 	android:name
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:16:5-79
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:16:22-76
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:16:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:17:5-81
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:17:5-81
 	android:name
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:17:22-78
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:17:22-78
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:18:5-98
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:18:5-98
 	android:name
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:18:22-95
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:18:22-95
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:19:5-81
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:19:5-81
 	android:name
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:19:22-78
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:19:22-78
 application
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:22:5-59:19
-MERGED from [com.android.support:design:22.2.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/design/22.2.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:recyclerview-v7:21.0.3] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/AndroidManifest.xml:17:5-19:19
-MERGED from [com.android.support:support-v4:24.0.0] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:cardview-v7:21.0.3] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/AndroidManifest.xml:16:5-19
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:22:5-59:19
+MERGED from [com.android.support:design:22.2.1] /Users/VictorBruno/.android/build-cache/56c5deaebcd348bb348a62ab1189c3b4e7959036/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /Users/VictorBruno/.android/build-cache/625df6ec8622000c27ec290a1aea3638789ae611/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/665cac68ca98a9bb862dc5cfda2b24d50f2217a9/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/VictorBruno/.android/build-cache/381ecc68fe8fb067d68a13c356b69eca0aa72745/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/VictorBruno/.android/build-cache/1b268920f2ba2c9612618fc4e4ca144d2c691b77/output/AndroidManifest.xml:19:5-21:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/VictorBruno/.android/build-cache/dde61b8a1c0630e521cd17b04e3718d58d2b3dcb/output/AndroidManifest.xml:9:5-20
+MERGED from [com.github.sharish:CreditCardView:v1.0.4] /Users/VictorBruno/.android/build-cache/c739dfcf58e0bd03265e282960b6bf474810b5e0/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:cardview-v7:25.0.1] /Users/VictorBruno/.android/build-cache/63149b7e42172b32d4aea1e91b3e837e6ca60ad5/output/AndroidManifest.xml:22:5-20
+MERGED from [com.github.ozodrukh:CircularReveal:1.0.5] /Users/VictorBruno/.android/build-cache/89b9f438f55b0b665e1f5cb12de6e08b608a90f0/output/AndroidManifest.xml:10:5-20
+MERGED from [cn.carbs.android:MDDialog:1.0.0] /Users/VictorBruno/.android/build-cache/0000b66bb9b3b4927d6c7eb880dd643ef4894b35/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] /Users/VictorBruno/.android/build-cache/410a0d7b348b2534c08566699e9b41e2953b919b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] /Users/VictorBruno/.android/build-cache/b88755c3e39557c2a92a2d91de81d1abc7be86f6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] /Users/VictorBruno/.android/build-cache/1c986b1c85f9297c838c1a89178a406ca5233ed2/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] /Users/VictorBruno/.android/build-cache/e28f6cfcd4e4c94fc987dad65e118d49ea4e0cb3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] /Users/VictorBruno/.android/build-cache/57079d4f5861d6eea401b64871d28d1e3c069f2c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/VictorBruno/.android/build-cache/f3afc5e0bab7c037aca656f27a4ea34f0e954746/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/VictorBruno/.android/build-cache/4907c1d7067120df41a4eb57be2399d93fb19df5/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] /Users/VictorBruno/.android/build-cache/3d8e51c60fa07a2137c08404dfacc7edbebbd08d/output/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:26:9-41
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:26:9-41
+	android:supportsRtl
+		ADDED from [com.github.sharish:CreditCardView:v1.0.4] /Users/VictorBruno/.android/build-cache/c739dfcf58e0bd03265e282960b6bf474810b5e0/output/AndroidManifest.xml:14:9-35
 	android:allowBackup
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:24:9-35
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:24:9-35
 	android:icon
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:25:9-43
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:25:9-43
 	android:theme
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:27:9-40
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:27:9-40
 	android:name
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:23:9-43
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:23:9-43
 meta-data#com.parse.APPLICATION_ID
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:28:9-30:52
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:28:9-30:52
 	android:value
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:30:13-49
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:30:13-49
 	android:name
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:29:13-52
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:29:13-52
 meta-data#com.parse.CLIENT_KEY
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:31:9-33:56
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:31:9-33:56
 	android:value
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:33:13-53
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:33:13-53
 	android:name
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:32:13-48
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:32:13-48
 meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:34:9-36:55
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:34:9-36:55
 	android:value
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:36:13-52
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:36:13-52
 	android:name
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:35:13-58
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:35:13-58
 activity#com.parse.starter.activity.MainActivity
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:38:9-47:20
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:38:9-47:20
 	android:screenOrientation
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:41:13-49
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:41:13-49
 	android:label
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:40:13-45
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:40:13-45
 	android:name
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:39:13-50
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:39:13-50
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:42:13-46:29
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:42:13-46:29
 action#android.intent.action.MAIN
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:43:17-69
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:43:17-69
 	android:name
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:43:25-66
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:43:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:45:17-77
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:45:17-77
 	android:name
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:45:27-74
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:45:27-74
 activity#com.parse.starter.activity.CadastroActivity
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:48:9-63
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:48:9-63
 	android:name
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:48:19-60
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:48:19-60
 activity#com.parse.starter.activity.CsaDetalhes
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:49:9-57:20
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:49:9-57:20
 	android:label
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:51:13-64
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:51:13-64
 	android:parentActivityName
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:52:13-64
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:52:13-64
 	android:theme
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:53:13-44
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:53:13-44
 	android:name
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:50:13-49
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:50:13-49
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:54:13-56:75
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:54:13-56:75
 	android:value
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:56:17-72
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:56:17-72
 	android:name
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:55:17-63
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:55:17-63
 activity#com.parse.starter.activity.AssinarActivity
-ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:58:9-71
+ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:58:9-71
 	android:name
-		ADDED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:58:19-59
+		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:58:19-59
 uses-sdk
-INJECTED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:22.2.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/design/22.2.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:22.2.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/AndroidManifest.xml:23:5-42
-MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:recyclerview-v7:21.0.3] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:support-v4:24.0.0] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:cardview-v7:21.0.3] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/AndroidManifest.xml:15:5-42
+INJECTED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:recyclerview-v7:22.2.0] /Users/VictorBruno/.android/build-cache/91969905e27bd5aaacee79ba2d734bea9853e46f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] /Users/VictorBruno/.android/build-cache/56c5deaebcd348bb348a62ab1189c3b4e7959036/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /Users/VictorBruno/.android/build-cache/625df6ec8622000c27ec290a1aea3638789ae611/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/665cac68ca98a9bb862dc5cfda2b24d50f2217a9/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/VictorBruno/.android/build-cache/381ecc68fe8fb067d68a13c356b69eca0aa72745/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/VictorBruno/.android/build-cache/1b268920f2ba2c9612618fc4e4ca144d2c691b77/output/AndroidManifest.xml:17:5-42
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/VictorBruno/.android/build-cache/dde61b8a1c0630e521cd17b04e3718d58d2b3dcb/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.sharish:CreditCardView:v1.0.4] /Users/VictorBruno/.android/build-cache/c739dfcf58e0bd03265e282960b6bf474810b5e0/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:25.0.1] /Users/VictorBruno/.android/build-cache/63149b7e42172b32d4aea1e91b3e837e6ca60ad5/output/AndroidManifest.xml:20:5-43
+MERGED from [com.github.ozodrukh:CircularReveal:1.0.5] /Users/VictorBruno/.android/build-cache/89b9f438f55b0b665e1f5cb12de6e08b608a90f0/output/AndroidManifest.xml:6:5-8:41
+MERGED from [cn.carbs.android:MDDialog:1.0.0] /Users/VictorBruno/.android/build-cache/0000b66bb9b3b4927d6c7eb880dd643ef4894b35/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] /Users/VictorBruno/.android/build-cache/410a0d7b348b2534c08566699e9b41e2953b919b/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] /Users/VictorBruno/.android/build-cache/b88755c3e39557c2a92a2d91de81d1abc7be86f6/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] /Users/VictorBruno/.android/build-cache/1c986b1c85f9297c838c1a89178a406ca5233ed2/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] /Users/VictorBruno/.android/build-cache/e28f6cfcd4e4c94fc987dad65e118d49ea4e0cb3/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] /Users/VictorBruno/.android/build-cache/57079d4f5861d6eea401b64871d28d1e3c069f2c/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/VictorBruno/.android/build-cache/f3afc5e0bab7c037aca656f27a4ea34f0e954746/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/VictorBruno/.android/build-cache/4907c1d7067120df41a4eb57be2399d93fb19df5/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] /Users/VictorBruno/.android/build-cache/3d8e51c60fa07a2137c08404dfacc7edbebbd08d/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:24.0.0] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:appcompat-v7:25.0.1] /Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
-		INJECTED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
-		INJECTED from /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/AndroidManifest.xml:21:5-77
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/665cac68ca98a9bb862dc5cfda2b24d50f2217a9/output/AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/AndroidManifest.xml:21:19-51
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/665cac68ca98a9bb862dc5cfda2b24d50f2217a9/output/AndroidManifest.xml:21:19-51
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/AndroidManifest.xml:21:52-75
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/665cac68ca98a9bb862dc5cfda2b24d50f2217a9/output/AndroidManifest.xml:21:52-75
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/AndroidManifest.xml:19:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/VictorBruno/.android/build-cache/1b268920f2ba2c9612618fc4e4ca144d2c691b77/output/AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/VictorBruno/.android/build-cache/1b268920f2ba2c9612618fc4e4ca144d2c691b77/output/AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/AndroidManifest.xml:20:20-65
-activity#android.support.v7.widget.TestActivity
-ADDED from [com.android.support:recyclerview-v7:21.0.3] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/AndroidManifest.xml:18:9-115
-	android:label
-		ADDED from [com.android.support:recyclerview-v7:21.0.3] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/AndroidManifest.xml:18:19-59
-	android:name
-		ADDED from [com.android.support:recyclerview-v7:21.0.3] /Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/AndroidManifest.xml:18:60-113
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/VictorBruno/.android/build-cache/1b268920f2ba2c9612618fc4e4ca144d2c691b77/output/AndroidManifest.xml:20:20-65

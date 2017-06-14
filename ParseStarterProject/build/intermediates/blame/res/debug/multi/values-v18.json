@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+        "outputFile": "/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-v18/values-v18.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-v18/values-v18.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 291,
+                        "startOffset": 55,
                         "endColumn": 48,
-                        "endOffset": 335
+                        "endOffset": 99
                     }
                 }
             }

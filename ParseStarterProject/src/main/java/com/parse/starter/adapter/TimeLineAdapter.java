@@ -9,6 +9,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.parse.ParseObject;
+import com.parse.ParseUser;
 import com.parse.starter.R;
 import com.squareup.picasso.Picasso;
 
@@ -22,12 +23,14 @@ public class TimeLineAdapter extends ArrayAdapter<ParseObject> {
 
     private Context context;
     private ArrayList<ParseObject> posts;
+    private ArrayList<ParseUser> usuarios;
 
-    public TimeLineAdapter(Context c, ArrayList<ParseObject> objects) {
+    public TimeLineAdapter(Context c, ArrayList<ParseObject> objects, ArrayList<ParseUser> objectsUsuarios) {
 
         super(c, 0, objects);
         this.context = c;
         this.posts = objects;
+        this.usuarios = objectsUsuarios;
     }
 
     public View getView(int position, View convertView, ViewGroup parent) {
@@ -60,7 +63,7 @@ public class TimeLineAdapter extends ArrayAdapter<ParseObject> {
         }
 
         //verifica se existe postagens
-        if (posts.size() > 0) {
+        if (posts.size() > 0 & usuarios.size() > 0) {
 
             //recupera componentes da tela
             ImageView imagemPostagem = (ImageView) view.findViewById(R.id.imagem_view_time_line);
@@ -69,10 +72,17 @@ public class TimeLineAdapter extends ArrayAdapter<ParseObject> {
 
             //recuperando CSA apartirda posição
             ParseObject parseObject = posts.get(position);
+            ParseUser parseUser = usuarios.get(position);
+            String descricao = (String) parseObject.get("DESCRICAO");
+
+//                String usuarioNome = parseUser.getUsername();
+//                tvModel.setText(usuarioNome);
+
+                tvModel.setText("Victor Bruno");
 
 
-            tvModel.setText("CSA Brasil");
-            tvBrand.setText("Melhores produtos!!" );
+
+            tvBrand.setText(descricao);
             //passando foto para o picasso mostrar na tela recuperado do parse
             Picasso.with(context)
                     .load(parseObject.getParseFile("IMAGEM").getUrl())

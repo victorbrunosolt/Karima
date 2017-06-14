@@ -3,210 +3,192 @@
 
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jar="/Users/VictorBruno/.android/build-cache/c739dfcf58e0bd03265e282960b6bf474810b5e0/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_c2fa53dc1325a36bc3ff3e44543d26bdbc4dd75a/classes.dex" />
+        revision="25.0.0"
+        sha1="dfcfa720b1f5818a843b6b5a3f843e41724f4606">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_870e155888da8ec2fd18a276be5ad07a0aa41e33/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jar="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_ef78174afdac857e12e340b39804ed8460bca787/classes.dex" />
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_deca780c6b69285e296e9d62f4a8f714d05b9af4/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jar="/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0-beta2_d5603270eb25f51d12c0f6e4ad52610a0f609594/classes.dex" />
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46faacb82530edb4fd30bff40395c8ec27f2d6ae/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jar="/Users/VictorBruno/.android/build-cache/e28f6cfcd4e4c94fc987dad65e118d49ea4e0cb3/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0-beta2_2ca074784b24ce4eedf6532ea022f0d522a03fd3/classes.dex" />
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3494f33137ae534068bba465158a00428a8ffba/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jar="/Users/VictorBruno/.android/build-cache/63149b7e42172b32d4aea1e91b3e837e6ca60ad5/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_ffafa41e20d5dec19047066730cb9cb0378c4f32/classes.dex" />
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_794265c48402e9312ec9e42092911b2daef3cc26/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/jars/classes.jar"
+        jar="/Users/VictorBruno/.android/build-cache/4907c1d7067120df41a4eb57be2399d93fb19df5/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta4_f299ca9ef14a78958e8a56bd33c71dd45c0c8c02/classes.dex" />
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56410eccd9ffa24e9b81004d24c9c9bbdf99e625/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jar="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_3250810e2dc0db8e0f15a181d9447a2ed8c6bd0a/classes.dex" />
+        revision="25.0.0"
+        sha1="45d0c9dc3a406519252303df29cb31cfa9f8f65e">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b06006039fc0aab4237636ec0aaaac2b7598ff95/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jar="/Users/VictorBruno/.android/build-cache/3d8e51c60fa07a2137c08404dfacc7edbebbd08d/output/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_dc3b93e958f170230e4325664d8261903959554b/classes.dex" />
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b11ec1c63ecfaa01f2758056c41be203784589e2/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jar="/Users/VictorBruno/.android/build-cache/89b9f438f55b0b665e1f5cb12de6e08b608a90f0/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-21.0.3_ed0b6c0284eca7f439fc727e30f1c241f7ea1edb/classes.dex" />
+        revision="25.0.0"
+        sha1="990aaea33c54b40347e1f6243dbf4ae8f1d71d3f">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18a6fd852c3c31973053a5c25e752645e2fd4235/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jar="/Users/VictorBruno/.android/build-cache/dde61b8a1c0630e521cd17b04e3718d58d2b3dcb/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_34e6b06e8872ff093a6ec37180bfeb811770e787/classes.dex" />
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67505afab3bdb5191209afa4fd94a81968b1b55d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jar="/Users/VictorBruno/.android/build-cache/410a0d7b348b2534c08566699e9b41e2953b919b/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_ae8449471aaf919051dfa4a2d870e4dfc63a3bd4/classes.dex" />
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_245eb8641050feb176a42801152ab81c1cf77265/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jar="/Users/VictorBruno/.android/build-cache/b88755c3e39557c2a92a2d91de81d1abc7be86f6/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_8e7dc34d112d4512c66f5bd6d1426a3b57073c56/classes.dex" />
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ed1bbbae2a8f97a306175b4411e3e8e52d595c6/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jar="/Users/VictorBruno/.android/build-cache/f3afc5e0bab7c037aca656f27a4ea34f0e954746/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_fe0e97422fe2f90f5de2b711514e528bda55d219/classes.dex" />
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23cac26c6d557f0c25a92b34eb0e920b83476c87/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/VictorBruno/.android/build-cache/1c986b1c85f9297c838c1a89178a406ca5233ed2/output/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="e520d85844f26c4829272a2b2c1acd93194e42af">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_58bb12d471c138fc358c6db5165ad6d76f44117d/classes.dex" />
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a9ce6088f8e40134fe658bcd2b39cc59aacde34e/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jar="/Users/VictorBruno/.android/build-cache/b88755c3e39557c2a92a2d91de81d1abc7be86f6/output/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_d9b61ec57eda0df0bb6ea23c4b8e9044be99d223/classes.dex" />
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2a304df354f1fa1132975886e96d7ed8a3f7dc5c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jar="/Users/VictorBruno/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_e81f2efbd7f0001224708b7911b48fb6b6911171/classes.dex" />
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_4f748c1a7cd551691f538985d9197585a154daa7/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jar="/Users/VictorBruno/.android/build-cache/1c986b1c85f9297c838c1a89178a406ca5233ed2/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_a0ce60a62cc3360372924619b56bf2555be2b1fe/classes.dex" />
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18a1424ee14971bff91c9b59d9738ccbd20e148e/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jar="/Users/VictorBruno/.android/build-cache/57079d4f5861d6eea401b64871d28d1e3c069f2c/output/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_cbbd4016fbda070e9280d859aca66d52c9010389/classes.dex" />
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_aad6cb5072f28ad8c4df98f94510cb45644e169a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jar="/Users/VictorBruno/.android/build-cache/e28f6cfcd4e4c94fc987dad65e118d49ea4e0cb3/output/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-21.0.3_8eaf04886d7399a32dc48f0f82d1b3100035fcf5/classes.dex" />
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_77edbe6f5058ae9014c68777b704eb5c8e622281/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jar="/Users/VictorBruno/.android/build-cache/3d8e51c60fa07a2137c08404dfacc7edbebbd08d/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="1821601ddbec5ff125653097812823388700af74">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.1_7135c45cc7485307e0a534a5ebd76341341e42a3/classes.dex" />
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f54413dd7057e942a8eed6dab510d34651311b60/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jar="/Users/VictorBruno/.android/build-cache/57079d4f5861d6eea401b64871d28d1e3c069f2c/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.1"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_5759060aa26e438a4de509daac3be2cbe98626b1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/victorbrunobotelho/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="0a9cb567dc008f570c28531720168f19148da965">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_6a92d22d7d10f4a5daf695e0b98932072f9d832b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="bcca3e5dde314c68300c4d5aeac0ab4d8e4bd8e3">
-        <dex dex="/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_083d96512cb90e38f36a504a87acadf528dca35c/classes.dex" />
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfda41c0887fe2eeff1f7b7e74fe6f75edd40fc2/classes.dex" />
     </item>
 
 </items>

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml",
+        "outputFile": "/Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 207
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 291,
+                        "startOffset": 55,
                         "endColumn": 106,
-                        "endOffset": 393
+                        "endOffset": 157
                     }
                 }
             },
@@ -26,17 +26,17 @@
                     "startLine": 3,
                     "startColumn": 4,
                     "startOffset": 212,
-                    "endColumn": 106,
-                    "endOffset": 314
+                    "endColumn": 107,
+                    "endOffset": 315
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 398,
-                        "endColumn": 106,
-                        "endOffset": 500
+                        "startOffset": 162,
+                        "endColumn": 107,
+                        "endOffset": 265
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 319,
-                    "endColumn": 107,
-                    "endOffset": 422
+                    "startOffset": 320,
+                    "endColumn": 122,
+                    "endOffset": 438
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 505,
-                        "endColumn": 107,
-                        "endOffset": 608
+                        "startOffset": 270,
+                        "endColumn": 122,
+                        "endOffset": 388
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 427,
-                    "endColumn": 86,
-                    "endOffset": 509
+                    "startOffset": 443,
+                    "endColumn": 106,
+                    "endOffset": 545
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 613,
-                        "endColumn": 86,
-                        "endOffset": 695
+                        "startOffset": 393,
+                        "endColumn": 106,
+                        "endOffset": 495
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 514,
-                    "endColumn": 102,
-                    "endOffset": 612
+                    "startOffset": 550,
+                    "endColumn": 107,
+                    "endOffset": 653
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 700,
-                        "endColumn": 102,
-                        "endOffset": 798
+                        "startOffset": 500,
+                        "endColumn": 107,
+                        "endOffset": 603
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 617,
-                    "endColumn": 118,
-                    "endOffset": 731
+                    "startOffset": 658,
+                    "endColumn": 86,
+                    "endOffset": 740
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 803,
-                        "endColumn": 118,
-                        "endOffset": 917
+                        "startOffset": 608,
+                        "endColumn": 86,
+                        "endOffset": 690
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 736,
-                    "endColumn": 107,
-                    "endOffset": 839
+                    "startOffset": 745,
+                    "endColumn": 102,
+                    "endOffset": 843
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 922,
-                        "endColumn": 107,
-                        "endOffset": 1025
+                        "startOffset": 695,
+                        "endColumn": 102,
+                        "endOffset": 793
                     }
                 }
             },
@@ -139,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 844,
-                    "endColumn": 108,
-                    "endOffset": 948
+                    "startOffset": 848,
+                    "endColumn": 118,
+                    "endOffset": 962
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1030,
-                        "endColumn": 108,
-                        "endOffset": 1134
+                        "startOffset": 798,
+                        "endColumn": 118,
+                        "endOffset": 912
                     }
                 }
             },
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 953,
-                    "endColumn": 99,
-                    "endOffset": 1048
+                    "startOffset": 967,
+                    "endColumn": 84,
+                    "endOffset": 1047
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1139,
-                        "endColumn": 99,
-                        "endOffset": 1234
+                        "startOffset": 917,
+                        "endColumn": 84,
+                        "endOffset": 997
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1053,
-                    "endColumn": 112,
-                    "endOffset": 1161
+                    "startOffset": 1052,
+                    "endColumn": 83,
+                    "endOffset": 1131
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1239,
-                        "endColumn": 112,
-                        "endOffset": 1347
+                        "startOffset": 1002,
+                        "endColumn": 83,
+                        "endOffset": 1081
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1166,
-                    "endColumn": 106,
-                    "endOffset": 1268
+                    "startOffset": 1136,
+                    "endColumn": 83,
+                    "endOffset": 1215
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1352,
-                        "endColumn": 106,
-                        "endOffset": 1454
+                        "startOffset": 1086,
+                        "endColumn": 83,
+                        "endOffset": 1165
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1273,
-                    "endColumn": 103,
-                    "endOffset": 1372
+                    "startOffset": 1220,
+                    "endColumn": 107,
+                    "endOffset": 1323
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1459,
-                        "endColumn": 103,
-                        "endOffset": 1558
+                        "startOffset": 1170,
+                        "endColumn": 107,
+                        "endOffset": 1273
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1377,
-                    "endColumn": 116,
-                    "endOffset": 1489
+                    "startOffset": 1328,
+                    "endColumn": 108,
+                    "endOffset": 1432
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-sl/values-sl.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1563,
-                        "endColumn": 116,
-                        "endOffset": 1675
+                        "startOffset": 1278,
+                        "endColumn": 108,
+                        "endOffset": 1382
                     }
                 }
             },
@@ -253,12 +253,126 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1494,
-                    "endColumn": 107,
-                    "endOffset": 1597
+                    "startOffset": 1437,
+                    "endColumn": 99,
+                    "endOffset": 1532
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sl/values.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1387,
+                        "endColumn": 99,
+                        "endOffset": 1482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1537,
+                    "endColumn": 112,
+                    "endOffset": 1645
+                },
+                "from": {
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1487,
+                        "endColumn": 112,
+                        "endOffset": 1595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1650,
+                    "endColumn": 106,
+                    "endOffset": 1752
+                },
+                "from": {
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1600,
+                        "endColumn": 106,
+                        "endOffset": 1702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1757,
+                    "endColumn": 103,
+                    "endOffset": 1856
+                },
+                "from": {
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1707,
+                        "endColumn": 103,
+                        "endOffset": 1806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1861,
+                    "endColumn": 116,
+                    "endOffset": 1973
+                },
+                "from": {
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1811,
+                        "endColumn": 116,
+                        "endOffset": 1923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1978,
+                    "endColumn": 96,
+                    "endOffset": 2070
+                },
+                "from": {
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1928,
+                        "endColumn": 96,
+                        "endOffset": 2020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2075,
+                    "endColumn": 107,
+                    "endOffset": 2178
+                },
+                "from": {
+                    "file": "/Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/res/values-sl/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -270,14 +384,14 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1602,
+                    "startOffset": 2183,
                     "endColumn": 196,
-                    "endOffset": 1794
+                    "endOffset": 2375
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sl/values.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/res/values-sl/values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -289,14 +403,14 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1799,
+                    "startOffset": 2380,
                     "endColumn": 130,
-                    "endOffset": 1925
+                    "endOffset": 2506
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sl/values.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/res/values-sl/values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,
@@ -308,14 +422,14 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1930,
+                    "startOffset": 2511,
                     "endColumn": 108,
-                    "endOffset": 2034
+                    "endOffset": 2615
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sl/values.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/res/values-sl/values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 0,
@@ -327,14 +441,14 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2039,
+                    "startOffset": 2620,
                     "endColumn": 205,
-                    "endOffset": 2240
+                    "endOffset": 2821
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sl/values.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/res/values-sl/values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 0,
@@ -346,14 +460,14 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2245,
+                    "startOffset": 2826,
                     "endColumn": 131,
-                    "endOffset": 2372
+                    "endOffset": 2953
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sl/values.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/res/values-sl/values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 0,
@@ -365,14 +479,14 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2377,
+                    "startOffset": 2958,
                     "endColumn": 132,
-                    "endOffset": 2505
+                    "endOffset": 3086
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sl/values.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/res/values-sl/values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 0,
@@ -384,14 +498,14 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 2510,
+                    "startOffset": 3091,
                     "endColumn": 198,
-                    "endOffset": 2704
+                    "endOffset": 3285
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/res/values-sl/values.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/1b268920f2ba2c9612618fc4e4ca144d2c691b77/output/res/values-sl/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -403,14 +517,14 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2709,
+                    "startOffset": 3290,
                     "endColumn": 216,
-                    "endOffset": 2921
+                    "endOffset": 3502
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sl/values.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/res/values-sl/values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 0,
@@ -422,14 +536,14 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2926,
+                    "startOffset": 3507,
                     "endColumn": 108,
-                    "endOffset": 3030
+                    "endOffset": 3611
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sl/values.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/res/values-sl/values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 0,
@@ -441,14 +555,14 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 3035,
+                    "startOffset": 3616,
                     "endColumn": 197,
-                    "endOffset": 3228
+                    "endOffset": 3809
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sl/values.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/res/values-sl/values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 0,
@@ -460,14 +574,14 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 3233,
+                    "startOffset": 3814,
                     "endColumn": 131,
-                    "endOffset": 3360
+                    "endOffset": 3941
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sl/values.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/res/values-sl/values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 0,
@@ -479,14 +593,14 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 3365,
+                    "startOffset": 3946,
                     "endColumn": 210,
-                    "endOffset": 3571
+                    "endOffset": 4152
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sl/values.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/res/values-sl/values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 0,
@@ -498,14 +612,14 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 3576,
+                    "startOffset": 4157,
                     "endColumn": 181,
-                    "endOffset": 3753
+                    "endOffset": 4334
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sl/values.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/res/values-sl/values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 0,
@@ -517,14 +631,14 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 3758,
+                    "startOffset": 4339,
                     "endColumn": 99,
-                    "endOffset": 3853
+                    "endOffset": 4434
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sl/values.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/res/values-sl/values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 0,
@@ -536,14 +650,14 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 3858,
+                    "startOffset": 4439,
                     "endColumn": 91,
-                    "endOffset": 3945
+                    "endOffset": 4526
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sl/values.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/res/values-sl/values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 0,
@@ -555,20 +669,58 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 3950,
+                    "startOffset": 4531,
                     "endColumn": 112,
-                    "endOffset": 4058
+                    "endOffset": 4639
                 },
                 "from": {
-                    "file": "/Users/victorbrunobotelho/Downloads/karima-beta/Instagram/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sl/values.xml",
+                    "file": "/Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/res/values-sl/values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 0,
                         "startOffset": 2500,
                         "endColumn": 108,
                         "endOffset": 2608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4644,
+                    "endColumn": 82,
+                    "endOffset": 4722
+                },
+                "from": {
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2025,
+                        "endColumn": 82,
+                        "endOffset": 2103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4727,
+                    "endColumn": 100,
+                    "endOffset": 4823
+                },
+                "from": {
+                    "file": "/Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2108,
+                        "endColumn": 100,
+                        "endOffset": 2204
                     }
                 }
             }

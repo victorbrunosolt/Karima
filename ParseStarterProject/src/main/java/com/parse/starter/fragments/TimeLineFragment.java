@@ -18,6 +18,7 @@ import com.parse.FindCallback;
 import com.parse.ParseException;
 import com.parse.ParseObject;
 import com.parse.ParseQuery;
+import com.parse.ParseUser;
 import com.parse.starter.R;
 import com.parse.starter.activity.CsaDetalhes;
 import com.parse.starter.adapter.SearchAdapter;
@@ -32,6 +33,7 @@ import java.util.List;
 public class TimeLineFragment extends Fragment {
     private ListView listView;
     private ArrayList<ParseObject> csas;
+    private ArrayList<ParseUser> usuarios;
     private ArrayAdapter<ParseObject> adapter;
     private ParseQuery query;
 
@@ -49,8 +51,9 @@ public class TimeLineFragment extends Fragment {
          Montar GridView e adapter
         */
         csas = new ArrayList<>();
+        usuarios = new ArrayList<>();
         listView = (ListView) view.findViewById(R.id.listView_Timeline);
-        adapter = new TimeLineAdapter(getActivity(), csas);
+        adapter = new TimeLineAdapter(getActivity(), csas, usuarios);
         listView.setAdapter(adapter);
 
         //recupera postagens
@@ -69,6 +72,7 @@ public class TimeLineFragment extends Fragment {
         */
         query = ParseQuery.getQuery("TIMELINE");
         query.orderByDescending("createdAt");
+        query.include("USUARIO");
 
         query.findInBackground(new FindCallback<ParseObject>() {
             @Override
@@ -79,7 +83,10 @@ public class TimeLineFragment extends Fragment {
                     if (objects.size() > 0) {
                         csas.clear();
                         for (ParseObject parseObject : objects) {
+                            ParseUser usuario = parseObject.getParseUser("USUARIO");
+                            usuarios.add(usuario);
                             csas.add(parseObject);
+
                         }
                         adapter.notifyDataSetChanged();
                     }
