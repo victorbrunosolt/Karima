@@ -15,12 +15,12 @@ ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-bet
 		INJECTED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/665cac68ca98a9bb862dc5cfda2b24d50f2217a9/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/7993673a3930766052c36ed6e2f36213a4f79009/output/AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/665cac68ca98a9bb862dc5cfda2b24d50f2217a9/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/7993673a3930766052c36ed6e2f36213a4f79009/output/AndroidManifest.xml:19:5-78
 	android:name
 		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
@@ -47,10 +47,10 @@ application
 ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:22:5-59:19
 MERGED from [com.android.support:design:22.2.1] /Users/VictorBruno/.android/build-cache/56c5deaebcd348bb348a62ab1189c3b4e7959036/output/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /Users/VictorBruno/.android/build-cache/625df6ec8622000c27ec290a1aea3638789ae611/output/AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/665cac68ca98a9bb862dc5cfda2b24d50f2217a9/output/AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/VictorBruno/.android/build-cache/381ecc68fe8fb067d68a13c356b69eca0aa72745/output/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/VictorBruno/.android/build-cache/1b268920f2ba2c9612618fc4e4ca144d2c691b77/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/7993673a3930766052c36ed6e2f36213a4f79009/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/VictorBruno/.android/build-cache/dc073e78498336dbcfa66af5ed3c62ff8b373d2f/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/VictorBruno/.android/build-cache/5be45d35f25bf56a333a3c02384603f4db7d9f05/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/VictorBruno/.android/build-cache/2fa2810f894e1103bc602de2da4f844b9b431b61/output/AndroidManifest.xml:19:5-21:19
 MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/VictorBruno/.android/build-cache/dde61b8a1c0630e521cd17b04e3718d58d2b3dcb/output/AndroidManifest.xml:9:5-20
 MERGED from [com.github.sharish:CreditCardView:v1.0.4] /Users/VictorBruno/.android/build-cache/c739dfcf58e0bd03265e282960b6bf474810b5e0/output/AndroidManifest.xml:11:5-15:19
 MERGED from [com.android.support:cardview-v7:25.0.1] /Users/VictorBruno/.android/build-cache/63149b7e42172b32d4aea1e91b3e837e6ca60ad5/output/AndroidManifest.xml:22:5-20
@@ -64,7 +64,7 @@ MERGED from [com.android.support:support-core-ui:25.0.1] /Users/VictorBruno/.and
 MERGED from [com.android.support:support-core-utils:25.0.1] /Users/VictorBruno/.android/build-cache/57079d4f5861d6eea401b64871d28d1e3c069f2c/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/VictorBruno/.android/build-cache/f3afc5e0bab7c037aca656f27a4ea34f0e954746/output/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/VictorBruno/.android/build-cache/4907c1d7067120df41a4eb57be2399d93fb19df5/output/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.0.1] /Users/VictorBruno/.android/build-cache/3d8e51c60fa07a2137c08404dfacc7edbebbd08d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /Users/VictorBruno/.android/build-cache/7f74af53bef9193f794bd853fcea3dcc4d943ad4/output/AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:26:9-41
 	android:supportsRtl
@@ -142,10 +142,10 @@ INJECTED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-
 MERGED from [com.android.support:recyclerview-v7:22.2.0] /Users/VictorBruno/.android/build-cache/91969905e27bd5aaacee79ba2d734bea9853e46f/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:design:22.2.1] /Users/VictorBruno/.android/build-cache/56c5deaebcd348bb348a62ab1189c3b4e7959036/output/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /Users/VictorBruno/.android/build-cache/625df6ec8622000c27ec290a1aea3638789ae611/output/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/665cac68ca98a9bb862dc5cfda2b24d50f2217a9/output/AndroidManifest.xml:23:5-42
-MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/VictorBruno/.android/build-cache/381ecc68fe8fb067d68a13c356b69eca0aa72745/output/AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/VictorBruno/.android/build-cache/1b268920f2ba2c9612618fc4e4ca144d2c691b77/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/7993673a3930766052c36ed6e2f36213a4f79009/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/VictorBruno/.android/build-cache/dc073e78498336dbcfa66af5ed3c62ff8b373d2f/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/VictorBruno/.android/build-cache/5be45d35f25bf56a333a3c02384603f4db7d9f05/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/VictorBruno/.android/build-cache/2fa2810f894e1103bc602de2da4f844b9b431b61/output/AndroidManifest.xml:17:5-42
 MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/VictorBruno/.android/build-cache/dde61b8a1c0630e521cd17b04e3718d58d2b3dcb/output/AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.sharish:CreditCardView:v1.0.4] /Users/VictorBruno/.android/build-cache/c739dfcf58e0bd03265e282960b6bf474810b5e0/output/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:cardview-v7:25.0.1] /Users/VictorBruno/.android/build-cache/63149b7e42172b32d4aea1e91b3e837e6ca60ad5/output/AndroidManifest.xml:20:5-43
@@ -159,7 +159,8 @@ MERGED from [com.android.support:support-core-ui:25.0.1] /Users/VictorBruno/.and
 MERGED from [com.android.support:support-core-utils:25.0.1] /Users/VictorBruno/.android/build-cache/57079d4f5861d6eea401b64871d28d1e3c069f2c/output/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/VictorBruno/.android/build-cache/f3afc5e0bab7c037aca656f27a4ea34f0e954746/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/VictorBruno/.android/build-cache/4907c1d7067120df41a4eb57be2399d93fb19df5/output/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.0.1] /Users/VictorBruno/.android/build-cache/3d8e51c60fa07a2137c08404dfacc7edbebbd08d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.jakewharton:butterknife:8.6.0] /Users/VictorBruno/.android/build-cache/9a9cd26d49942c6bb35f13773430a9526eb7c237/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:25.1.0] /Users/VictorBruno/.android/build-cache/7f74af53bef9193f794bd853fcea3dcc4d943ad4/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.0.1] /Users/VictorBruno/.android/build-cache/1f6581abefd0e89d9d6882eacc4cdc6e96b7fc35/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
@@ -169,22 +170,22 @@ MERGED from [com.android.support:support-compat:25.0.1] /Users/VictorBruno/.andr
 		INJECTED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /Users/VictorBruno/Documentos/Aplicativos/Projetos Android/karima-beta/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/665cac68ca98a9bb862dc5cfda2b24d50f2217a9/output/AndroidManifest.xml:21:5-77
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/7993673a3930766052c36ed6e2f36213a4f79009/output/AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/665cac68ca98a9bb862dc5cfda2b24d50f2217a9/output/AndroidManifest.xml:21:19-51
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/7993673a3930766052c36ed6e2f36213a4f79009/output/AndroidManifest.xml:21:19-51
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/665cac68ca98a9bb862dc5cfda2b24d50f2217a9/output/AndroidManifest.xml:21:52-75
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/VictorBruno/.android/build-cache/7993673a3930766052c36ed6e2f36213a4f79009/output/AndroidManifest.xml:21:52-75
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/VictorBruno/.android/build-cache/dc073e78498336dbcfa66af5ed3c62ff8b373d2f/output/AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/VictorBruno/.android/build-cache/dc073e78498336dbcfa66af5ed3c62ff8b373d2f/output/AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/VictorBruno/.android/build-cache/dc073e78498336dbcfa66af5ed3c62ff8b373d2f/output/AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/VictorBruno/.android/build-cache/de17e7260745027bc3a0f201632eb282605e1591/output/AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/VictorBruno/.android/build-cache/dc073e78498336dbcfa66af5ed3c62ff8b373d2f/output/AndroidManifest.xml:19:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/VictorBruno/.android/build-cache/1b268920f2ba2c9612618fc4e4ca144d2c691b77/output/AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/VictorBruno/.android/build-cache/2fa2810f894e1103bc602de2da4f844b9b431b61/output/AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/VictorBruno/.android/build-cache/1b268920f2ba2c9612618fc4e4ca144d2c691b77/output/AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/VictorBruno/.android/build-cache/2fa2810f894e1103bc602de2da4f844b9b431b61/output/AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/VictorBruno/.android/build-cache/1b268920f2ba2c9612618fc4e4ca144d2c691b77/output/AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/VictorBruno/.android/build-cache/2fa2810f894e1103bc602de2da4f844b9b431b61/output/AndroidManifest.xml:20:20-65

@@ -6,6 +6,8 @@ import android.os.Bundle;
 
 import android.support.v4.app.Fragment;
 
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -31,10 +33,10 @@ import java.util.List;
  * A simple {@link Fragment} subclass.
  */
 public class TimeLineFragment extends Fragment {
-    private ListView listView;
+    private RecyclerView mRecyclerViewTimeLine;
     private ArrayList<ParseObject> csas;
     private ArrayList<ParseUser> usuarios;
-    private ArrayAdapter<ParseObject> adapter;
+    private TimeLineAdapter adapter;
     private ParseQuery query;
 
     public TimeLineFragment() {
@@ -52,9 +54,12 @@ public class TimeLineFragment extends Fragment {
         */
         csas = new ArrayList<>();
         usuarios = new ArrayList<>();
-        listView = (ListView) view.findViewById(R.id.listView_Timeline);
+        mRecyclerViewTimeLine = (RecyclerView) view.findViewById(R.id.rv_time_line);
         adapter = new TimeLineAdapter(getActivity(), csas, usuarios);
-        listView.setAdapter(adapter);
+        mRecyclerViewTimeLine.setAdapter(adapter);
+        LinearLayoutManager llm = new LinearLayoutManager(getActivity());
+        llm.setOrientation(LinearLayoutManager.VERTICAL);
+        mRecyclerViewTimeLine.setLayoutManager(llm);
 
         //recupera postagens
         getPostagens();

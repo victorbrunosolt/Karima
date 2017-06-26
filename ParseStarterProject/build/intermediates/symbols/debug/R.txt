@@ -964,7 +964,6 @@ int id light 0x7f0c0049
 int id line1 0x7f0c00d4
 int id line3 0x7f0c00d6
 int id listMode 0x7f0c0013
-int id listView_Timeline 0x7f0c00a5
 int id list_csa 0x7f0c00a4
 int id list_item 0x7f0c0055
 int id ll_card_number 0x7f0c00d9
@@ -1004,6 +1003,7 @@ int id right_icon 0x7f0c00d1
 int id right_side 0x7f0c00cc
 int id rl_buttons 0x7f0c00b5
 int id rl_title 0x7f0c00b1
+int id rv_time_line 0x7f0c00a5
 int id satellite 0x7f0c003d
 int id screen 0x7f0c0022
 int id scroll 0x7f0c001f
@@ -1074,9 +1074,9 @@ int id toolbar_detalhes 0x7f0c0088
 int id toolbar_principal 0x7f0c008e
 int id top 0x7f0c0036
 int id topPanel 0x7f0c005b
-int id tv_brand 0x7f0c00ea
-int id tv_model 0x7f0c00e9
+int id tv_descricao_time_line 0x7f0c00ea
 int id tv_title 0x7f0c00b3
+int id tv_titulo_time_line 0x7f0c00e9
 int id up 0x7f0c0009
 int id useLogo 0x7f0c001b
 int id view_offset_helper 0x7f0c000a

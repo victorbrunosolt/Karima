@@ -1,7 +1,7 @@
 <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     android:layout_marginBottom="4dp"
     android:layout_marginTop="4dp"
     android:layout_marginLeft="8dp"
@@ -25,23 +25,19 @@
 
         <TextView
             android:textColor="@color/preto"
-            android:layout_below="@+id/imagem_view_time_line"
-            android:id="@+id/tv_model"
+            android:id="@+id/tv_titulo_time_line"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:paddingLeft="16dp"
             android:paddingTop="24dp"
-            android:textSize="24sp" />
+            android:textSize="24sp"/>
 
         <TextView
             android:textColor="@color/cinzaEscuro"
-            android:layout_below="@+id/tv_model"
-            android:id="@+id/tv_brand"
+            android:id="@+id/tv_descricao_time_line"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:paddingLeft="16dp"
-            android:paddingBottom="24dp"
-            android:textSize="14sp" />
+            />
 
 
     </RelativeLayout>

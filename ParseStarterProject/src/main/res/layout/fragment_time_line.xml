@@ -4,19 +4,11 @@
     android:layout_height="match_parent"
     tools:context="com.parse.starter.fragments.HomeFragment">
 
-    <ListView
-        android:id="@+id/listView_Timeline"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="0dp"
-        android:columnWidth="150dp"
-        android:drawSelectorOnTop="true"
-        android:gravity="center"
-        android:numColumns="auto_fit"
-        android:stretchMode="columnWidth"
-        android:verticalSpacing="0dp"
-        android:focusable="true"
-        android:background="@color/white" />
+  <android.support.v7.widget.RecyclerView
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:id="@+id/rv_time_line">
+  </android.support.v7.widget.RecyclerView>
 
 
 

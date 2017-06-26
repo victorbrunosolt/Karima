@@ -3391,7 +3391,6 @@ containing a value of this type.
         public static final int line1=0x7f0c00d4;
         public static final int line3=0x7f0c00d6;
         public static final int listMode=0x7f0c0013;
-        public static final int listView_Timeline=0x7f0c00a5;
         public static final int list_csa=0x7f0c00a4;
         public static final int list_item=0x7f0c0055;
         public static final int ll_card_number=0x7f0c00d9;
@@ -3431,6 +3430,7 @@ containing a value of this type.
         public static final int right_side=0x7f0c00cc;
         public static final int rl_buttons=0x7f0c00b5;
         public static final int rl_title=0x7f0c00b1;
+        public static final int rv_time_line=0x7f0c00a5;
         public static final int satellite=0x7f0c003d;
         public static final int screen=0x7f0c0022;
         public static final int scroll=0x7f0c001f;
@@ -3501,9 +3501,9 @@ containing a value of this type.
         public static final int toolbar_principal=0x7f0c008e;
         public static final int top=0x7f0c0036;
         public static final int topPanel=0x7f0c005b;
-        public static final int tv_brand=0x7f0c00ea;
-        public static final int tv_model=0x7f0c00e9;
+        public static final int tv_descricao_time_line=0x7f0c00ea;
         public static final int tv_title=0x7f0c00b3;
+        public static final int tv_titulo_time_line=0x7f0c00e9;
         public static final int up=0x7f0c0009;
         public static final int useLogo=0x7f0c001b;
         public static final int view_offset_helper=0x7f0c000a;
